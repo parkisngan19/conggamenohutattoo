@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Nohu Tattoo | Cổng Game Nổ Hũ Uy Tín Xanh Chín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nohu <https://nohu.tattoo/>`_ là sân chơi uy tín và triển vọng trong lĩnh vực giải trí trực tuyến, cung cấp nhiều trò chơi chất lượng như thể thao, casino online, slot game, xổ số và game bài đổi thưởng. Với công nghệ bảo mật SSL 128bit và giấy phép hoạt động từ chính phủ Philippines, Nohu đảm bảo an toàn cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Giao diện dễ sử dụng, cùng dịch vụ khách hàng chuyên nghiệp, giúp người chơi dễ dàng tham gia và nhận các ưu đãi hấp dẫn như hoàn trả siêu tốc và thưởng VIP. Nohu là lựa chọn lý tưởng cho những ai tìm kiếm sân chơi trực tuyến chất lượng và an toàn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 48B Tân Hòa Đông, Phường 14, Quận 6, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Phone: 0993325846
 
-.. toctree::
+Email: info@nohu.tattoo
 
-   usage
-   api
+Website: https://nohu.tattoo/ 
+
+#nohu #gamenohu #nohutattoo #tainohu #trangchunohu
